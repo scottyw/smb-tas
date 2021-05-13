@@ -1,0 +1,11 @@
+0	Power on
+196	World 1-1 timer start
+2507	World 1-2 timer start
+4023	World 4-1 timer start
+6647	World 4-2 timer start
+8038	World 8-1 timer start
+11105	World 8-2 timer start
+13332	World 8-3 timer start
+15475	World 8-4 timer start
+18215	Last frame
+

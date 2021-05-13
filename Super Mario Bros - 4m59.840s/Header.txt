@@ -1,0 +1,11 @@
+MovieVersion BizHawk v2.0 Tasproj v1.1
+Author default user
+emuVersion Version 2.6.1
+OriginalEmuVersion Version 2.6.1
+Platform NES
+GameName Super Mario Bros
+SHA1 EA343F4E445A9050D4B4FBAC2C77D0693B1D0922
+BoardName NROM
+Core NesHawk
+rerecordCount 1864
+
