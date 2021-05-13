@@ -1,6 +1,6 @@
 # Tool-Assisted Speedrun of Super Mario Bros (1985) in under 5 minutes (just)
 
-The `tasproj` file is all you need if you want to try the run yourself. It's zip-formatted file so I included the expanded version of it for the sake of interest.
+The `tasproj` file is all you need if you want to try the run yourself. It's a zip-formatted file so I included the expanded version of it for the sake of interest.
 
 I used:
 * [BizHawk 2.6.1](https://github.com/TASVideos/BizHawk)
